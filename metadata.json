@@ -1,0 +1,5 @@
+{
+  "name": "Devil Cyber Guard AI",
+  "description": "An advanced bilingual (Bengali/English) cyber security assistant providing threat intelligence, security guidelines, and real-time vulnerability updates with voice interaction.",
+  "requestFramePermissions": ["microphone"]
+}
